@@ -3,7 +3,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank">  </a> </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/Arthurvini17](https://git.io/streak-stats)
+
 
 <!--
 **Arthurvini17/Arthurvini17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/Arthurvini17](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arthurvini17](https://git.io/streak-stats)
