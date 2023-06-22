@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Me siga:</h3>
 <p align="left">
 
 <a href="seu link" target="blank"><img align="center" src="https://www.instagram.com/_viniciusxs/icons/linkedin.svg" alt="" height="30" width="40" /></a>
