@@ -28,4 +28,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arthurvini17&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+<div style="display: inline_block"><br/>
+<img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  
+</div>
