@@ -19,8 +19,13 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="center" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F906%2F282%2Fpng-clipart-logo-computer-icons-php-wm-logo-text-label.png&tbnid=tVx8ZbEKlUHscM&vet=12ahUKEwifnu2y_tX_AhXxDLkGHTxWBLkQMygCegUIARDBAQ..i&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dphp%2BIcon&docid=WIFjUPx9tJpyNM&w=900&h=900&q=php%20icon&ved=2ahUKEwifnu2y_tX_AhXxDLkGHTxWBLkQMygCegUIARDBAQ">
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arthurvini17&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
