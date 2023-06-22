@@ -1,8 +1,8 @@
-[![Hi](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FCloverPortal%2Fstatus%2F1377720687910076427&psig=AOvVaw0UXePBQBKYNVGc7cvJWyDR&ust=1687491892208000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi7j7H71f8CFQAAAAAdAAAAABAS)](https://github.com/Arthurvini17)
+[Hi](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FCloverPortal%2Fstatus%2F1377720687910076427&psig=AOvVaw0UXePBQBKYNVGc7cvJWyDR&ust=1687491892208000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKi7j7H71f8CFQAAAAAdAAAAABAS)](https://github.com/Arthurvini17)
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank">  </a> </p>
+
 <!--
 **Arthurvini17/Arthurvini17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
