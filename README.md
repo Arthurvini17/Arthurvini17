@@ -28,7 +28,34 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arthurvini17&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-<div style="display: inline_block"><br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurvini17&show_icons=true&theme=dracula)
+
+
+<h1> Tecnologias que eu uso: </h1>
+
+<div style="display: inline-flex">
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  
+
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+
+<img align="center" alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img align="center" alt="" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+<img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whit"/>
+<img align="center" alt="" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
+
 </div>
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurvini17&hide=javascript,html)
+
+
+
+
