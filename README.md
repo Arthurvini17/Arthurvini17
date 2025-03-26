@@ -1,6 +1,6 @@
 # 💻 Arthur Vinícius
 
-Sou um desenvolvedor back-end apaixonado por tecnologia e especializado em **Node.js, Laravel e Docker**. Atualmente, estou desenvolvendo o projeto **DriveNow**, focado na venda de veículos.
+Sou um desenvolvedor FullStack apaixonado por tecnologia há muito tempo e me especializando em **PHP, Node.js, Laravel e Docker**. Atualmente, estou em busca da minha primeira oportunidade na área.
 
 ---
 
@@ -58,7 +58,6 @@ Sou um desenvolvedor back-end apaixonado por tecnologia e especializado em **Nod
 - 🟢 **Prisma ORM**
 - 🟣 **Sistemas Distribuídos**
 - 🔹 **Arquitetura de Microserviços**
-- 🔹 **Linux** 
 
 ---
 
