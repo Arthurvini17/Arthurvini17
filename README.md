@@ -1,61 +1,65 @@
+# 💻 Arthur Vinícius
 
+Sou um desenvolvedor back-end apaixonado por tecnologia e especializado em **Node.js, Laravel e Docker**. Atualmente, estou desenvolvendo o projeto **DriveNow**, focado na venda de veículos.
 
+---
 
-
-
-<!--
-**Arthurvini17/Arthurvini17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h3 align="left">Me siga:</h3>
+## 📲 Me siga:
 <p align="left">
-
-<a href="https://www.linkedin.com/in/arthur-vinicius-b22202270/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_viniciusxs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/arthur-vinicius-b22202270/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_viniciusxs/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arthurvini17&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+---
 
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Arthurvini17&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthurvini17&show_icons=true&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthurvini17&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurvini17&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
 
-<h1> Tecnologias que eu uso: </h1>
+---
 
-<div style="display: inline-flex">
-<img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+## 🛠️ Tecnologias que uso:
 
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave" />
+</p>
 
+---
 
-<img align="center" alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whit"/>
-<img align="center" alt="" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
+## 🚀 Projetos em Destaque
+- 🔥 **[DriveNow](https://github.com/Arthurvini17/DriveNow)** - Plataforma para compra e venda de veículos.
+- 🛠️ **[HostPool](https://github.com/Arthurvini17/HostPool)** - Gerenciamento de hospedagem web.
 
-</div>
+---
 
+## 🌱 Atualmente aprendendo
+- 🟢 **Prisma ORM**
+- 🟣 **Sistemas Distribuídos**
+- 🔹 **Arquitetura de Microserviços**
+- 🔹 **Linux** 
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurvini17&hide=javascript,html)
-
-
-
-
+💬 **Entre em contato para colaborações ou dúvidas!**
